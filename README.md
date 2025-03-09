@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Salesforce Apex package provides an efficient way to anonymize email addresses in your Salesforce Org. It ensures compliance with data protection policies by replacing real email addresses with randomized values.
+This Salesforce Apex package provides an efficient way to anonymize email addresses in your Salesforce Org. It ensures compliance with data protection policies by replacing real email addresses with randomized values. It is extremely useful for refreshed sandboxes with real customers data where there is automation that sends emails.
 
 ## Features
 
